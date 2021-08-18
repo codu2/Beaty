@@ -1,2 +1,2 @@
-# Beaty
+# Beauty
 Beauty Website
